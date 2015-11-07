@@ -1,0 +1,2 @@
+module Logutils
+  def l

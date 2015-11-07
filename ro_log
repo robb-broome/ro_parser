@@ -1,0 +1,986 @@
+# Logfile created on 2015-11-07 11:37:06 -0600 by logger.rb/47272
+D, [2015-11-07T11:37:45.300867 #2941] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:37:45.300936 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.300957 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.300973 #2941] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:37:45.300984 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.300996 #2941] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:37:45.301006 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.301017 #2941] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:37:45.301028 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.301039 #2941] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:37:45.301048 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.301060 #2941] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:37:45.301069 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.301080 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.301092 #2941] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:37:45.301520 #2941] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:37:45.301547 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.301586 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.301601 #2941] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:37:45.301611 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.301623 #2941] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:37:45.301632 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.301644 #2941] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:37:45.301653 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.301665 #2941] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:37:45.301674 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.301685 #2941] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:37:45.301695 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.301705 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.301715 #2941] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:37:45.302590 #2941] DEBUG -- : Initial string: {'a': 'robb'
+D, [2015-11-07T11:37:45.302619 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.302632 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302656 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302675 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302691 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302706 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302738 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302758 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302773 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302788 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302803 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302817 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302832 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302846 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302860 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302874 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302888 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302903 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302917 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302932 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302946 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302976 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.302995 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303011 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303025 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303047 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303066 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303082 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303096 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303110 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303123 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303138 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303152 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303166 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303179 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303193 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303207 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303220 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303235 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303273 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303289 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303304 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303318 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303331 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303345 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303359 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303373 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303387 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303401 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303414 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303428 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303442 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303456 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303469 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303504 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303519 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303533 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303547 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303561 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303637 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303661 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303678 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303703 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303718 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303737 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303752 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303767 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303785 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303801 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303815 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303829 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303843 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303857 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303900 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303916 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303932 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303947 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303961 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303977 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.303991 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304005 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304019 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304033 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304047 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304060 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304074 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304088 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304101 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304115 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304131 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304145 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304159 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304172 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304201 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304216 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304237 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304252 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304265 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304278 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304294 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304309 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304324 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304931 #2941] DEBUG -- : Initial string: {'a': 'robb'}
+D, [2015-11-07T11:37:45.304956 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.304969 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.304982 #2941] DEBUG -- : after scan, value = }, pointer is now: 13, counter is: 1
+D, [2015-11-07T11:37:45.304993 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.305006 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.305016 #2941] DEBUG -- : End value is 'a': 'robb'
+D, [2015-11-07T11:37:45.305222 #2941] DEBUG -- : Initial string: {'a': 1}
+D, [2015-11-07T11:37:45.305244 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.305256 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.305268 #2941] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:37:45.305278 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.305288 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.305299 #2941] DEBUG -- : End value is 'a': 1
+D, [2015-11-07T11:37:45.305480 #2941] DEBUG -- : Initial string: {'a': {'b': 1}}
+D, [2015-11-07T11:37:45.305502 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.305514 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.305526 #2941] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:37:45.305535 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.305549 #2941] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:37:45.305559 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.305570 #2941] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:37:45.305580 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.305589 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.305616 #2941] DEBUG -- : End value is 'a': {'b': 1}
+D, [2015-11-07T11:37:45.305669 #2941] DEBUG -- : Initial string: {'b': 1}
+D, [2015-11-07T11:37:45.305686 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.305697 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.305708 #2941] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:37:45.305718 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.305727 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.305737 #2941] DEBUG -- : End value is 'b': 1
+D, [2015-11-07T11:37:45.305930 #2941] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:37:45.305955 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.305967 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.305979 #2941] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:37:45.305989 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.306000 #2941] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:37:45.306009 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.306020 #2941] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:37:45.306030 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.306040 #2941] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:37:45.306050 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.306060 #2941] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:37:45.306070 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.306079 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.306098 #2941] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:37:45.306149 #2941] DEBUG -- : Initial string: {'b': {'x': 3}}
+D, [2015-11-07T11:37:45.306179 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.306190 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.306201 #2941] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:37:45.306211 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.306221 #2941] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:37:45.306231 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.306241 #2941] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:37:45.306250 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.306260 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.306270 #2941] DEBUG -- : End value is 'b': {'x': 3}
+D, [2015-11-07T11:37:45.306314 #2941] DEBUG -- : Initial string: {'x': 3}
+D, [2015-11-07T11:37:45.306332 #2941] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:37:45.306345 #2941] DEBUG -- : increment
+D, [2015-11-07T11:37:45.306357 #2941] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:37:45.306366 #2941] DEBUG -- : decrement
+D, [2015-11-07T11:37:45.306376 #2941] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:37:45.306385 #2941] DEBUG -- : End value is 'x': 3
+D, [2015-11-07T11:38:03.598318 #2944] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:38:03.598384 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.598404 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.598419 #2944] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:03.598430 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.598441 #2944] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:38:03.598471 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.598484 #2944] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:38:03.598495 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.598505 #2944] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:38:03.598515 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.598525 #2944] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:38:03.598534 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.598543 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.598554 #2944] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:38:03.598977 #2944] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:38:03.599002 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.599016 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.599028 #2944] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:03.599038 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.599049 #2944] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:38:03.599058 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.599069 #2944] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:38:03.599078 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.599088 #2944] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:38:03.599113 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.599124 #2944] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:38:03.599133 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.599142 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.599152 #2944] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:38:03.599987 #2944] DEBUG -- : Initial string: {'a': 'robb'
+D, [2015-11-07T11:38:03.600014 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.600034 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600059 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600076 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600090 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600107 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600122 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600136 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600151 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600191 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600208 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600222 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600235 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600251 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600265 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600278 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600293 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600307 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600322 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600336 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600350 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600365 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600378 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600392 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600425 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600441 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600457 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600470 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600483 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600498 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600512 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600525 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600540 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600555 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600571 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600584 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600600 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600615 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600629 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600641 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600656 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600670 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600711 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600725 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600738 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600753 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600766 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600782 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600797 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600810 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600825 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600839 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600852 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600867 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600880 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600893 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600908 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600923 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600939 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600952 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600965 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.600980 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601009 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601022 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601037 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601051 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601066 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601080 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601095 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601110 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601128 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601143 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601158 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601171 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601186 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601200 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601213 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601228 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601241 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601256 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601271 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601307 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601324 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601338 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601350 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601365 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601379 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601392 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601407 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601422 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601438 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601451 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601464 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601479 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601492 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601505 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601520 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601533 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601548 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601561 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601577 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.601615 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.602147 #2944] DEBUG -- : Initial string: {'a': 'robb'}
+D, [2015-11-07T11:38:03.602176 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.602189 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.602202 #2944] DEBUG -- : after scan, value = }, pointer is now: 13, counter is: 1
+D, [2015-11-07T11:38:03.602212 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.602223 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.602233 #2944] DEBUG -- : End value is 'a': 'robb'
+D, [2015-11-07T11:38:03.602388 #2944] DEBUG -- : Initial string: {'a': 1}
+D, [2015-11-07T11:38:03.602426 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.602439 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.602451 #2944] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:38:03.602461 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.602470 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.602480 #2944] DEBUG -- : End value is 'a': 1
+D, [2015-11-07T11:38:03.602628 #2944] DEBUG -- : Initial string: {'a': {'b': 1}}
+D, [2015-11-07T11:38:03.602648 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.602660 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.602672 #2944] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:03.602681 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.602692 #2944] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:38:03.602701 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.602711 #2944] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:38:03.602721 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.602730 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.602739 #2944] DEBUG -- : End value is 'a': {'b': 1}
+D, [2015-11-07T11:38:03.602804 #2944] DEBUG -- : Initial string: {'b': 1}
+D, [2015-11-07T11:38:03.602824 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.602835 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.602854 #2944] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:38:03.602865 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.602874 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.602883 #2944] DEBUG -- : End value is 'b': 1
+D, [2015-11-07T11:38:03.603036 #2944] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:38:03.603056 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.603068 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.603080 #2944] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:03.603090 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.603100 #2944] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:38:03.603121 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.603132 #2944] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:38:03.603141 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.603152 #2944] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:38:03.603161 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.603171 #2944] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:38:03.603180 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.603190 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.603199 #2944] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:38:03.603242 #2944] DEBUG -- : Initial string: {'b': {'x': 3}}
+D, [2015-11-07T11:38:03.603258 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.603268 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.603279 #2944] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:03.603288 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.603298 #2944] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:38:03.603308 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.603318 #2944] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:38:03.603327 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.603336 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.603345 #2944] DEBUG -- : End value is 'b': {'x': 3}
+D, [2015-11-07T11:38:03.603399 #2944] DEBUG -- : Initial string: {'x': 3}
+D, [2015-11-07T11:38:03.603415 #2944] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:03.603424 #2944] DEBUG -- : increment
+D, [2015-11-07T11:38:03.603435 #2944] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:38:03.603444 #2944] DEBUG -- : decrement
+D, [2015-11-07T11:38:03.603453 #2944] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:03.603462 #2944] DEBUG -- : End value is 'x': 3
+D, [2015-11-07T11:38:10.617966 #2946] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:38:10.618040 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.618060 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.618074 #2946] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:10.618085 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.618117 #2946] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:38:10.618127 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.618138 #2946] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:38:10.618148 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.618158 #2946] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:38:10.618167 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.618177 #2946] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:38:10.618186 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.618195 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.618215 #2946] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:38:10.618636 #2946] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:38:10.618662 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.618684 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.618696 #2946] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:10.618706 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.618716 #2946] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:38:10.618725 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.618735 #2946] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:38:10.618744 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.618766 #2946] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:38:10.618776 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.618786 #2946] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:38:10.618795 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.618806 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.618816 #2946] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:38:10.619728 #2946] DEBUG -- : Initial string: {'a': 'robb'
+D, [2015-11-07T11:38:10.619756 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.619769 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619791 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619823 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619838 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619852 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619865 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619878 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619891 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619905 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619918 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619933 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619947 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619960 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619975 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.619989 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620001 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620014 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620027 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620040 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620053 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620068 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620081 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620094 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620123 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620136 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620151 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620164 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620177 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620189 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620202 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620216 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620229 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620242 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620256 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620269 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620282 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620300 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620313 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620326 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620338 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620352 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620381 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620394 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620409 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620429 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620443 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620456 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620470 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620483 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620495 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620509 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620522 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620534 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620549 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620562 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620574 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620586 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620600 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620613 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620625 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620639 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620652 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620687 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620702 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620715 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620727 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620739 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620751 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620766 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620778 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620792 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620805 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620818 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620832 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620844 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620857 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620869 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620881 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620894 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620908 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620939 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620953 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620965 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620979 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.620992 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621004 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621017 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621029 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621041 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621055 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621070 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621083 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621095 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621109 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621122 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621135 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621147 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621181 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621194 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621207 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621223 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621850 #2946] DEBUG -- : Initial string: {'a': 'robb'}
+D, [2015-11-07T11:38:10.621881 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.621895 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.621907 #2946] DEBUG -- : after scan, value = }, pointer is now: 13, counter is: 1
+D, [2015-11-07T11:38:10.621918 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.621927 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.621937 #2946] DEBUG -- : End value is 'a': 'robb'
+D, [2015-11-07T11:38:10.622245 #2946] DEBUG -- : Initial string: {'a': 1}
+D, [2015-11-07T11:38:10.622275 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.622288 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.622309 #2946] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:38:10.622320 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.622330 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.622340 #2946] DEBUG -- : End value is 'a': 1
+D, [2015-11-07T11:38:10.622508 #2946] DEBUG -- : Initial string: {'a': {'b': 1}}
+D, [2015-11-07T11:38:10.622529 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.622540 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.622552 #2946] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:10.622562 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.622597 #2946] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:38:10.622609 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.622620 #2946] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:38:10.622629 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.622638 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.622647 #2946] DEBUG -- : End value is 'a': {'b': 1}
+D, [2015-11-07T11:38:10.622694 #2946] DEBUG -- : Initial string: {'b': 1}
+D, [2015-11-07T11:38:10.622710 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.622720 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.622731 #2946] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:38:10.622740 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.622748 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.622757 #2946] DEBUG -- : End value is 'b': 1
+D, [2015-11-07T11:38:10.622932 #2946] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:38:10.622952 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.622963 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.622975 #2946] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:10.622984 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.622994 #2946] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:38:10.623003 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.623014 #2946] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:38:10.623023 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.623033 #2946] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:38:10.623041 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.623051 #2946] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:38:10.623060 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.623069 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.623078 #2946] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:38:10.623122 #2946] DEBUG -- : Initial string: {'b': {'x': 3}}
+D, [2015-11-07T11:38:10.623137 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.623147 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.623158 #2946] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:38:10.623167 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.623177 #2946] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:38:10.623203 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.623214 #2946] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:38:10.623223 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.623232 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.623241 #2946] DEBUG -- : End value is 'b': {'x': 3}
+D, [2015-11-07T11:38:10.623281 #2946] DEBUG -- : Initial string: {'x': 3}
+D, [2015-11-07T11:38:10.623297 #2946] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:38:10.623306 #2946] DEBUG -- : increment
+D, [2015-11-07T11:38:10.623324 #2946] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:38:10.623334 #2946] DEBUG -- : decrement
+D, [2015-11-07T11:38:10.623343 #2946] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:38:10.623352 #2946] DEBUG -- : End value is 'x': 3
+D, [2015-11-07T11:39:14.054223 #2949] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:14.054315 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.054340 #2949] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:14.054355 #2949] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:14.054368 #2949] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:14.054381 #2949] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:14.054393 #2949] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:14.054404 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.054416 #2949] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:14.054850 #2949] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:14.054878 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.054894 #2949] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:14.054907 #2949] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:14.054919 #2949] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:14.054931 #2949] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:14.054962 #2949] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:14.054975 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.054985 #2949] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:14.055874 #2949] DEBUG -- : Initial string: {'a': 'robb'
+D, [2015-11-07T11:39:14.055903 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.056808 #2949] DEBUG -- : Initial string: {'a': 'robb'}
+D, [2015-11-07T11:39:14.056852 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.056868 #2949] DEBUG -- : after scan, value = }, pointer is now: 13, counter is: 1
+D, [2015-11-07T11:39:14.056880 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.056891 #2949] DEBUG -- : End value is 'a': 'robb'
+D, [2015-11-07T11:39:14.057110 #2949] DEBUG -- : Initial string: {'a': 1}
+D, [2015-11-07T11:39:14.057145 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.057163 #2949] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:14.057176 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.057187 #2949] DEBUG -- : End value is 'a': 1
+D, [2015-11-07T11:39:14.057507 #2949] DEBUG -- : Initial string: {'a': {'b': 1}}
+D, [2015-11-07T11:39:14.057535 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.057552 #2949] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:14.057566 #2949] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:39:14.057578 #2949] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:39:14.057589 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.057600 #2949] DEBUG -- : End value is 'a': {'b': 1}
+D, [2015-11-07T11:39:14.057655 #2949] DEBUG -- : Initial string: {'b': 1}
+D, [2015-11-07T11:39:14.057675 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.057688 #2949] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:14.057699 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.057710 #2949] DEBUG -- : End value is 'b': 1
+D, [2015-11-07T11:39:14.057913 #2949] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:14.057936 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.057950 #2949] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:14.057963 #2949] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:14.057975 #2949] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:14.057989 #2949] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:14.058001 #2949] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:14.058012 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.058048 #2949] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:14.058099 #2949] DEBUG -- : Initial string: {'b': {'x': 3}}
+D, [2015-11-07T11:39:14.058117 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.058130 #2949] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:14.058141 #2949] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:39:14.058153 #2949] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:39:14.058164 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.058174 #2949] DEBUG -- : End value is 'b': {'x': 3}
+D, [2015-11-07T11:39:14.058219 #2949] DEBUG -- : Initial string: {'x': 3}
+D, [2015-11-07T11:39:14.058236 #2949] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:14.058251 #2949] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:14.058262 #2949] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:14.058272 #2949] DEBUG -- : End value is 'x': 3
+D, [2015-11-07T11:39:24.650023 #2951] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:24.650112 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.650141 #2951] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:24.650158 #2951] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:24.650174 #2951] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:24.650190 #2951] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:24.650205 #2951] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:24.650219 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.650234 #2951] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:24.650765 #2951] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:24.650799 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.650819 #2951] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:24.650836 #2951] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:24.650852 #2951] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:24.650896 #2951] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:24.650913 #2951] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:24.650927 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.650940 #2951] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:24.651996 #2951] DEBUG -- : Initial string: {'a': 'robb'
+D, [2015-11-07T11:39:24.652028 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.653001 #2951] DEBUG -- : Initial string: {'a': 'robb'}
+D, [2015-11-07T11:39:24.653033 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.667003 #2951] DEBUG -- : after scan, value = }, pointer is now: 13, counter is: 1
+D, [2015-11-07T11:39:24.667053 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.667072 #2951] DEBUG -- : End value is 'a': 'robb'
+D, [2015-11-07T11:39:24.667424 #2951] DEBUG -- : Initial string: {'a': 1}
+D, [2015-11-07T11:39:24.667451 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.667468 #2951] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:24.667482 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.667494 #2951] DEBUG -- : End value is 'a': 1
+D, [2015-11-07T11:39:24.667710 #2951] DEBUG -- : Initial string: {'a': {'b': 1}}
+D, [2015-11-07T11:39:24.667737 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.667753 #2951] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:24.667767 #2951] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:39:24.667781 #2951] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:39:24.667793 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.667804 #2951] DEBUG -- : End value is 'a': {'b': 1}
+D, [2015-11-07T11:39:24.667861 #2951] DEBUG -- : Initial string: {'b': 1}
+D, [2015-11-07T11:39:24.667882 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.667896 #2951] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:24.667908 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.667919 #2951] DEBUG -- : End value is 'b': 1
+D, [2015-11-07T11:39:24.668124 #2951] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:24.668149 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.668165 #2951] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:24.668178 #2951] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:24.668192 #2951] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:24.668205 #2951] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:24.668221 #2951] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:24.668233 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.668245 #2951] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:24.668333 #2951] DEBUG -- : Initial string: {'b': {'x': 3}}
+D, [2015-11-07T11:39:24.668354 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.668369 #2951] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:24.668382 #2951] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:39:24.668395 #2951] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:39:24.668407 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.668418 #2951] DEBUG -- : End value is 'b': {'x': 3}
+D, [2015-11-07T11:39:24.668465 #2951] DEBUG -- : Initial string: {'x': 3}
+D, [2015-11-07T11:39:24.668485 #2951] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:24.668499 #2951] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:24.668510 #2951] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:24.668522 #2951] DEBUG -- : End value is 'x': 3
+D, [2015-11-07T11:39:57.898717 #2956] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:57.899063 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.899097 #2956] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:57.899115 #2956] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:57.899129 #2956] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:57.899151 #2956] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:57.899165 #2956] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:57.899178 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.899192 #2956] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:57.899671 #2956] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:57.899699 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.899716 #2956] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:57.899730 #2956] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:57.899743 #2956] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:57.899756 #2956] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:57.899785 #2956] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:57.899797 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.899809 #2956] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:57.900714 #2956] DEBUG -- : Initial string: {'a': 'robb'
+D, [2015-11-07T11:39:57.900743 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+E, [2015-11-07T11:39:57.901096 #2956] ERROR -- : threshhold
+D, [2015-11-07T11:39:57.901588 #2956] DEBUG -- : Initial string: {'a': 'robb'}
+D, [2015-11-07T11:39:57.901613 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.901630 #2956] DEBUG -- : after scan, value = }, pointer is now: 13, counter is: 1
+D, [2015-11-07T11:39:57.901644 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.901657 #2956] DEBUG -- : End value is 'a': 'robb'
+D, [2015-11-07T11:39:57.901844 #2956] DEBUG -- : Initial string: {'a': 1}
+D, [2015-11-07T11:39:57.901866 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.901881 #2956] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:57.901893 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.901905 #2956] DEBUG -- : End value is 'a': 1
+D, [2015-11-07T11:39:57.902078 #2956] DEBUG -- : Initial string: {'a': {'b': 1}}
+D, [2015-11-07T11:39:57.902100 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.902115 #2956] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:57.902128 #2956] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:39:57.902141 #2956] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:39:57.902152 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.902166 #2956] DEBUG -- : End value is 'a': {'b': 1}
+D, [2015-11-07T11:39:57.902214 #2956] DEBUG -- : Initial string: {'b': 1}
+D, [2015-11-07T11:39:57.902232 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.902246 #2956] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:57.902257 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.902267 #2956] DEBUG -- : End value is 'b': 1
+D, [2015-11-07T11:39:57.902449 #2956] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:39:57.902470 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.902485 #2956] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:57.902498 #2956] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:39:57.902511 #2956] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:39:57.902526 #2956] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:39:57.902538 #2956] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:39:57.902556 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.902568 #2956] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:39:57.902617 #2956] DEBUG -- : Initial string: {'b': {'x': 3}}
+D, [2015-11-07T11:39:57.902635 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.902674 #2956] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:39:57.902687 #2956] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:39:57.902699 #2956] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:39:57.902710 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.902721 #2956] DEBUG -- : End value is 'b': {'x': 3}
+D, [2015-11-07T11:39:57.902765 #2956] DEBUG -- : Initial string: {'x': 3}
+D, [2015-11-07T11:39:57.902785 #2956] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:39:57.902799 #2956] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:39:57.902810 #2956] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:39:57.902821 #2956] DEBUG -- : End value is 'x': 3
+D, [2015-11-07T11:44:32.201042 #2977] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:44:32.202655 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.202935 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.202969 #2977] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:44:32.202984 #2977] DEBUG -- : Counter Incremented to: 2
+D, [2015-11-07T11:44:32.202997 #2977] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:44:32.203008 #2977] DEBUG -- : Counter Incremented to: 3
+D, [2015-11-07T11:44:32.203020 #2977] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:44:32.203032 #2977] DEBUG -- : Counter Decremented to: 2
+D, [2015-11-07T11:44:32.203043 #2977] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:44:32.203054 #2977] DEBUG -- : Counter Decremented to: 1
+D, [2015-11-07T11:44:32.203065 #2977] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:44:32.203075 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.203086 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.203099 #2977] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:44:32.203880 #2977] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:44:32.203909 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.203923 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.203935 #2977] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:44:32.203945 #2977] DEBUG -- : Counter Incremented to: 2
+D, [2015-11-07T11:44:32.203956 #2977] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:44:32.203965 #2977] DEBUG -- : Counter Incremented to: 3
+D, [2015-11-07T11:44:32.203975 #2977] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:44:32.203985 #2977] DEBUG -- : Counter Decremented to: 2
+D, [2015-11-07T11:44:32.203995 #2977] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:44:32.204004 #2977] DEBUG -- : Counter Decremented to: 1
+D, [2015-11-07T11:44:32.204014 #2977] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:44:32.204023 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.204032 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.204041 #2977] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:44:32.205233 #2977] DEBUG -- : Initial string: {'a': 'robb'
+D, [2015-11-07T11:44:32.205264 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.205284 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.205311 #2977] DEBUG -- : Counter Incremented to: 2
+D, [2015-11-07T11:44:32.205328 #2977] DEBUG -- : Counter Incremented to: 3
+D, [2015-11-07T11:44:32.205343 #2977] DEBUG -- : Counter Incremented to: 4
+D, [2015-11-07T11:44:32.205356 #2977] DEBUG -- : Counter Incremented to: 5
+D, [2015-11-07T11:44:32.205370 #2977] DEBUG -- : Counter Incremented to: 6
+D, [2015-11-07T11:44:32.205384 #2977] DEBUG -- : Counter Incremented to: 7
+D, [2015-11-07T11:44:32.205398 #2977] DEBUG -- : Counter Incremented to: 8
+D, [2015-11-07T11:44:32.205411 #2977] DEBUG -- : Counter Incremented to: 9
+D, [2015-11-07T11:44:32.205424 #2977] DEBUG -- : Counter Incremented to: 10
+D, [2015-11-07T11:44:32.205438 #2977] DEBUG -- : Counter Incremented to: 11
+D, [2015-11-07T11:44:32.205451 #2977] DEBUG -- : Counter Incremented to: 12
+D, [2015-11-07T11:44:32.205480 #2977] DEBUG -- : Counter Incremented to: 13
+D, [2015-11-07T11:44:32.205494 #2977] DEBUG -- : Counter Incremented to: 14
+D, [2015-11-07T11:44:32.205508 #2977] DEBUG -- : Counter Incremented to: 15
+D, [2015-11-07T11:44:32.205521 #2977] DEBUG -- : Counter Incremented to: 16
+D, [2015-11-07T11:44:32.205534 #2977] DEBUG -- : Counter Incremented to: 17
+D, [2015-11-07T11:44:32.205547 #2977] DEBUG -- : Counter Incremented to: 18
+D, [2015-11-07T11:44:32.205564 #2977] DEBUG -- : Counter Incremented to: 19
+D, [2015-11-07T11:44:32.205577 #2977] DEBUG -- : Counter Incremented to: 20
+D, [2015-11-07T11:44:32.205590 #2977] DEBUG -- : Counter Incremented to: 21
+D, [2015-11-07T11:44:32.205607 #2977] DEBUG -- : Counter Incremented to: 22
+D, [2015-11-07T11:44:32.205620 #2977] DEBUG -- : Counter Incremented to: 23
+D, [2015-11-07T11:44:32.205633 #2977] DEBUG -- : Counter Incremented to: 24
+D, [2015-11-07T11:44:32.205646 #2977] DEBUG -- : Counter Incremented to: 25
+D, [2015-11-07T11:44:32.205659 #2977] DEBUG -- : Counter Incremented to: 26
+D, [2015-11-07T11:44:32.205674 #2977] DEBUG -- : Counter Incremented to: 27
+D, [2015-11-07T11:44:32.205687 #2977] DEBUG -- : Counter Incremented to: 28
+D, [2015-11-07T11:44:32.205700 #2977] DEBUG -- : Counter Incremented to: 29
+D, [2015-11-07T11:44:32.205713 #2977] DEBUG -- : Counter Incremented to: 30
+D, [2015-11-07T11:44:32.205729 #2977] DEBUG -- : Counter Incremented to: 31
+D, [2015-11-07T11:44:32.205756 #2977] DEBUG -- : Counter Incremented to: 32
+D, [2015-11-07T11:44:32.205769 #2977] DEBUG -- : Counter Incremented to: 33
+D, [2015-11-07T11:44:32.205785 #2977] DEBUG -- : Counter Incremented to: 34
+D, [2015-11-07T11:44:32.205800 #2977] DEBUG -- : Counter Incremented to: 35
+D, [2015-11-07T11:44:32.205813 #2977] DEBUG -- : Counter Incremented to: 36
+D, [2015-11-07T11:44:32.205825 #2977] DEBUG -- : Counter Incremented to: 37
+D, [2015-11-07T11:44:32.205838 #2977] DEBUG -- : Counter Incremented to: 38
+D, [2015-11-07T11:44:32.205851 #2977] DEBUG -- : Counter Incremented to: 39
+D, [2015-11-07T11:44:32.205866 #2977] DEBUG -- : Counter Incremented to: 40
+D, [2015-11-07T11:44:32.205879 #2977] DEBUG -- : Counter Incremented to: 41
+D, [2015-11-07T11:44:32.205892 #2977] DEBUG -- : Counter Incremented to: 42
+D, [2015-11-07T11:44:32.205912 #2977] DEBUG -- : Counter Incremented to: 43
+D, [2015-11-07T11:44:32.205925 #2977] DEBUG -- : Counter Incremented to: 44
+D, [2015-11-07T11:44:32.205938 #2977] DEBUG -- : Counter Incremented to: 45
+D, [2015-11-07T11:44:32.205951 #2977] DEBUG -- : Counter Incremented to: 46
+D, [2015-11-07T11:44:32.205964 #2977] DEBUG -- : Counter Incremented to: 47
+D, [2015-11-07T11:44:32.205977 #2977] DEBUG -- : Counter Incremented to: 48
+D, [2015-11-07T11:44:32.205990 #2977] DEBUG -- : Counter Incremented to: 49
+D, [2015-11-07T11:44:32.206021 #2977] DEBUG -- : Counter Incremented to: 50
+D, [2015-11-07T11:44:32.206037 #2977] DEBUG -- : Counter Incremented to: 51
+D, [2015-11-07T11:44:32.206050 #2977] DEBUG -- : Counter Incremented to: 52
+D, [2015-11-07T11:44:32.206063 #2977] DEBUG -- : Counter Incremented to: 53
+D, [2015-11-07T11:44:32.206075 #2977] DEBUG -- : Counter Incremented to: 54
+D, [2015-11-07T11:44:32.206093 #2977] DEBUG -- : Counter Incremented to: 55
+D, [2015-11-07T11:44:32.206106 #2977] DEBUG -- : Counter Incremented to: 56
+D, [2015-11-07T11:44:32.206119 #2977] DEBUG -- : Counter Incremented to: 57
+D, [2015-11-07T11:44:32.206132 #2977] DEBUG -- : Counter Incremented to: 58
+D, [2015-11-07T11:44:32.206148 #2977] DEBUG -- : Counter Incremented to: 59
+D, [2015-11-07T11:44:32.206163 #2977] DEBUG -- : Counter Incremented to: 60
+D, [2015-11-07T11:44:32.206177 #2977] DEBUG -- : Counter Incremented to: 61
+D, [2015-11-07T11:44:32.206190 #2977] DEBUG -- : Counter Incremented to: 62
+D, [2015-11-07T11:44:32.206205 #2977] DEBUG -- : Counter Incremented to: 63
+D, [2015-11-07T11:44:32.206218 #2977] DEBUG -- : Counter Incremented to: 64
+D, [2015-11-07T11:44:32.206231 #2977] DEBUG -- : Counter Incremented to: 65
+D, [2015-11-07T11:44:32.206244 #2977] DEBUG -- : Counter Incremented to: 66
+D, [2015-11-07T11:44:32.206259 #2977] DEBUG -- : Counter Incremented to: 67
+D, [2015-11-07T11:44:32.206272 #2977] DEBUG -- : Counter Incremented to: 68
+D, [2015-11-07T11:44:32.206285 #2977] DEBUG -- : Counter Incremented to: 69
+D, [2015-11-07T11:44:32.206327 #2977] DEBUG -- : Counter Incremented to: 70
+D, [2015-11-07T11:44:32.206341 #2977] DEBUG -- : Counter Incremented to: 71
+D, [2015-11-07T11:44:32.206353 #2977] DEBUG -- : Counter Incremented to: 72
+D, [2015-11-07T11:44:32.206368 #2977] DEBUG -- : Counter Incremented to: 73
+D, [2015-11-07T11:44:32.206381 #2977] DEBUG -- : Counter Incremented to: 74
+D, [2015-11-07T11:44:32.206396 #2977] DEBUG -- : Counter Incremented to: 75
+D, [2015-11-07T11:44:32.206408 #2977] DEBUG -- : Counter Incremented to: 76
+D, [2015-11-07T11:44:32.206420 #2977] DEBUG -- : Counter Incremented to: 77
+D, [2015-11-07T11:44:32.206433 #2977] DEBUG -- : Counter Incremented to: 78
+D, [2015-11-07T11:44:32.206445 #2977] DEBUG -- : Counter Incremented to: 79
+D, [2015-11-07T11:44:32.206459 #2977] DEBUG -- : Counter Incremented to: 80
+D, [2015-11-07T11:44:32.206472 #2977] DEBUG -- : Counter Incremented to: 81
+D, [2015-11-07T11:44:32.206484 #2977] DEBUG -- : Counter Incremented to: 82
+D, [2015-11-07T11:44:32.206501 #2977] DEBUG -- : Counter Incremented to: 83
+D, [2015-11-07T11:44:32.206514 #2977] DEBUG -- : Counter Incremented to: 84
+D, [2015-11-07T11:44:32.206526 #2977] DEBUG -- : Counter Incremented to: 85
+D, [2015-11-07T11:44:32.206538 #2977] DEBUG -- : Counter Incremented to: 86
+D, [2015-11-07T11:44:32.206550 #2977] DEBUG -- : Counter Incremented to: 87
+D, [2015-11-07T11:44:32.206563 #2977] DEBUG -- : Counter Incremented to: 88
+D, [2015-11-07T11:44:32.206598 #2977] DEBUG -- : Counter Incremented to: 89
+D, [2015-11-07T11:44:32.206613 #2977] DEBUG -- : Counter Incremented to: 90
+D, [2015-11-07T11:44:32.206628 #2977] DEBUG -- : Counter Incremented to: 91
+D, [2015-11-07T11:44:32.206641 #2977] DEBUG -- : Counter Incremented to: 92
+D, [2015-11-07T11:44:32.206655 #2977] DEBUG -- : Counter Incremented to: 93
+D, [2015-11-07T11:44:32.206668 #2977] DEBUG -- : Counter Incremented to: 94
+D, [2015-11-07T11:44:32.206681 #2977] DEBUG -- : Counter Incremented to: 95
+D, [2015-11-07T11:44:32.206693 #2977] DEBUG -- : Counter Incremented to: 96
+D, [2015-11-07T11:44:32.206705 #2977] DEBUG -- : Counter Incremented to: 97
+D, [2015-11-07T11:44:32.206718 #2977] DEBUG -- : Counter Incremented to: 98
+D, [2015-11-07T11:44:32.206732 #2977] DEBUG -- : Counter Incremented to: 99
+D, [2015-11-07T11:44:32.206747 #2977] DEBUG -- : Counter Incremented to: 100
+D, [2015-11-07T11:44:32.206760 #2977] DEBUG -- : Counter Incremented to: 101
+E, [2015-11-07T11:44:32.206770 #2977] ERROR -- : threshhold
+D, [2015-11-07T11:44:32.207298 #2977] DEBUG -- : Initial string: {'a': 'robb'}
+D, [2015-11-07T11:44:32.207322 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.207338 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.207350 #2977] DEBUG -- : after scan, value = }, pointer is now: 13, counter is: 1
+D, [2015-11-07T11:44:32.207360 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.207375 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.207385 #2977] DEBUG -- : End value is 'a': 'robb'
+D, [2015-11-07T11:44:32.207545 #2977] DEBUG -- : Initial string: {'a': 1}
+D, [2015-11-07T11:44:32.207565 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.207577 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.207588 #2977] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:44:32.207597 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.207626 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.207635 #2977] DEBUG -- : End value is 'a': 1
+D, [2015-11-07T11:44:32.207785 #2977] DEBUG -- : Initial string: {'a': {'b': 1}}
+D, [2015-11-07T11:44:32.207807 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.207818 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.207829 #2977] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:44:32.207838 #2977] DEBUG -- : Counter Incremented to: 2
+D, [2015-11-07T11:44:32.207848 #2977] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:44:32.207857 #2977] DEBUG -- : Counter Decremented to: 1
+D, [2015-11-07T11:44:32.207867 #2977] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:44:32.207876 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.207884 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.207893 #2977] DEBUG -- : End value is 'a': {'b': 1}
+D, [2015-11-07T11:44:32.207960 #2977] DEBUG -- : Initial string: {'b': 1}
+D, [2015-11-07T11:44:32.207979 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.207990 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.208000 #2977] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:44:32.208009 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.208018 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.208026 #2977] DEBUG -- : End value is 'b': 1
+D, [2015-11-07T11:44:32.208175 #2977] DEBUG -- : Initial string: {'a': {'b': {'x': 3}}}
+D, [2015-11-07T11:44:32.208195 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.208206 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.208217 #2977] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:44:32.208226 #2977] DEBUG -- : Counter Incremented to: 2
+D, [2015-11-07T11:44:32.208261 #2977] DEBUG -- : after scan, value = {, pointer is now: 13, counter is: 2
+D, [2015-11-07T11:44:32.208271 #2977] DEBUG -- : Counter Incremented to: 3
+D, [2015-11-07T11:44:32.208281 #2977] DEBUG -- : after scan, value = }, pointer is now: 20, counter is: 3
+D, [2015-11-07T11:44:32.208290 #2977] DEBUG -- : Counter Decremented to: 2
+D, [2015-11-07T11:44:32.208300 #2977] DEBUG -- : after scan, value = }, pointer is now: 21, counter is: 2
+D, [2015-11-07T11:44:32.208309 #2977] DEBUG -- : Counter Decremented to: 1
+D, [2015-11-07T11:44:32.208318 #2977] DEBUG -- : after scan, value = }, pointer is now: 22, counter is: 1
+D, [2015-11-07T11:44:32.208327 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.208335 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.208344 #2977] DEBUG -- : End value is 'a': {'b': {'x': 3}}
+D, [2015-11-07T11:44:32.208387 #2977] DEBUG -- : Initial string: {'b': {'x': 3}}
+D, [2015-11-07T11:44:32.208402 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.208415 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.208425 #2977] DEBUG -- : after scan, value = {, pointer is now: 7, counter is: 1
+D, [2015-11-07T11:44:32.208434 #2977] DEBUG -- : Counter Incremented to: 2
+D, [2015-11-07T11:44:32.208444 #2977] DEBUG -- : after scan, value = }, pointer is now: 14, counter is: 2
+D, [2015-11-07T11:44:32.208458 #2977] DEBUG -- : Counter Decremented to: 1
+D, [2015-11-07T11:44:32.208469 #2977] DEBUG -- : after scan, value = }, pointer is now: 15, counter is: 1
+D, [2015-11-07T11:44:32.208478 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.208486 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.208495 #2977] DEBUG -- : End value is 'b': {'x': 3}
+D, [2015-11-07T11:44:32.208553 #2977] DEBUG -- : Initial string: {'x': 3}
+D, [2015-11-07T11:44:32.208569 #2977] DEBUG -- : after scan, value = {, pointer is now: 1, counter is: 0
+D, [2015-11-07T11:44:32.208579 #2977] DEBUG -- : Counter Incremented to: 1
+D, [2015-11-07T11:44:32.208591 #2977] DEBUG -- : after scan, value = }, pointer is now: 8, counter is: 1
+D, [2015-11-07T11:44:32.208601 #2977] DEBUG -- : Counter Decremented to: 0
+D, [2015-11-07T11:44:32.208609 #2977] DEBUG -- : Done: Counter: 0
+D, [2015-11-07T11:44:32.208617 #2977] DEBUG -- : End value is 'x': 3
+E, [2015-11-07T11:44:39.248821 #2979] ERROR -- : threshhold
+E, [2015-11-07T11:44:53.234793 #2984] ERROR -- : threshhold
