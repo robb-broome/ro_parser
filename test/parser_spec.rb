@@ -51,6 +51,9 @@ describe RoParser do
     expect{parser.parse}.to raise_error(UnbalancedError)
   end
 
+  it 'can parse an array' do
+  end
+
   it 'can extract a number' do
     parser = RoParser.new("{'a': 'robb'}")
     expect(parser.value_for '1').to eq(1)

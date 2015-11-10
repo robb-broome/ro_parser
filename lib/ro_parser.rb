@@ -7,7 +7,6 @@ require 'logger'
 class UnbalancedError < StandardError; end
 class UnknownError < StandardError; end
 class RoParser
-   VERBOSE = false
 
   include Delimiters
 
@@ -25,9 +24,7 @@ class RoParser
   end
 
   def parse_chunk
-    split_chunk.map do |piece|
-      RoLexer.new(piece).value
-    end
+    split_chunk.map {|piece| RoLexer.new(piece).value}
   end
 
   def chunk
